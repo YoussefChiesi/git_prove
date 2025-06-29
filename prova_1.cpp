@@ -9,7 +9,12 @@ int main()
 {
     int a = 5;
     int b = 3;
-
+    cout<<"MI TROVO IN BRANCH B"<<endl;
+    int array[10];
+    for(int i = 0; i< 10; i++)
+    {
+        array[i] = i;
+    }
     cout<< "Valore: "<<somma(a,b)<<endl;
     return 0;
 }
