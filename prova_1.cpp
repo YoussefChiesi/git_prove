@@ -5,17 +5,6 @@ int somma (int n1, int n2)
     int somma = n1+n2;
     return somma;
 }
-bool aggiung_b(int* array, int i)
-{
-    if(array[i]==i)
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
-}
 int main()
 {
     int a = 5;
