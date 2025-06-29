@@ -13,5 +13,11 @@ int main()
     char gay = 'gay';
     char str[9] = "gayyyyyy";
     cout<< "Valore: "<<somma(a,b)<<endl;
+    //portiamo avanti il tutto con un bel if:
+    bool t = true;
+    if(t == true)
+    {
+        cout<<"procediamo alla grande";
+    }
     return 0;
 }
