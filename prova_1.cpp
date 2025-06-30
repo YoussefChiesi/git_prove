@@ -9,11 +9,8 @@ int main()
 {
     int a = 5;
     int b = 3;
-    cout<<"MI TROVO IN BRANCH C"<<endl;
+    cout<<"MI TROVO IN BRANCH C-2"<<endl;
     
-    cout<<"questa è la enorme differenza:"<<endl;
-    int martina = 19;
-
     int array[10];
     for(int i = 0; i< 10; i++)
     {
