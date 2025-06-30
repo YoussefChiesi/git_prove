@@ -9,5 +9,7 @@ int main()
 {
     
     cout<<"gkngdkaosgjnioasdjgijsajgilòasdighsaildòhgdas";
+    int marco = 120;
+    marco = marco - 110;
     return 0;
 }
