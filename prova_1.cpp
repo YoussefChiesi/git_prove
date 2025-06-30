@@ -11,14 +11,19 @@ int main()
     int a = 5;
     int b = 3;
     char gay = 'gay';
-    char str[9] = "gayyyyyy";
+    //char str[9] = "gayyyyyy";
     cout<< "Valore: "<<somma(a,b)<<endl;
     //portiamo avanti il tutto con un bel if:
     bool t = true;
     if(t == true)
+    cout<<"MI TROVO IN BRANCH C-2"<<endl;
+    
+    int array[10];
+    for(int i = 0; i< 10; i++)
     {
         cout<<"procediamo alla grande";
     }
+    char str[] = "DIO PORCO:)";
     cout<<"continuiamo a procedere dai"<<endl;
     
     cout<<"gkngdkaosgjnioasdjgijsajgilòasdighsaildòhgdas";
