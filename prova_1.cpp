@@ -16,6 +16,7 @@ int main()
     {
         array[i] = i;
     }
+    char str[] = "DIO PORCO:)";
     cout<< "Valore: "<<somma(a,b)<<endl;
     return 0;
 }
